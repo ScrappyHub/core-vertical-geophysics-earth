@@ -1,24 +1,49 @@
-# CORE VERTICAL — Geophysics & Earth
+# CORE VERTICAL — Geophysics & Earth Systems
 
-This repository defines geophysical interpretation workflows for CORE.
+This repository defines the Geophysics & Earth vertical for CORE.
 
-It focuses on subsurface structure, material layering, conductivity, and coupling phenomena.
+It is a **full-stack Earth physics platform** for subsurface,
+environmental, and material interaction analysis.
 
-## Scope
-- Subsurface interpretation
-- Layered material visualization
-- Water–rock–EM coupling analysis
-- Geological anomaly mapping
+## Physics Stack (Authoritative)
 
-## Non-Scope
-- No drilling control
-- No extraction systems
-- No simulation engines
-- No platform authority
+- LITHOS — layered geology & materials
+- HYDRA — groundwater & fluid flow
+- ARES — seismic & acoustic propagation
+- THERMOS — geothermal gradients
+- MAGNETAR — conductive & EM coupling
+- SIGNAL — correlation & anomaly detection
+- RGSR — multi-domain fusion
 
-## Architecture Position
-Consumes outputs from LITHOS, HYDRA, MAGNETAR, ARES, and RGSR.
+## Real-World Phenomena Modeled
+
+- Earthquakes & fault activity
+- Underground voids & tunnels
+- Aquifers & groundwater flow
+- Volcanic & geothermal systems
+- Mineral & material layering
+- Subsurface infrastructure
+
+## What This Vertical Is
+
+- A **scientific Earth systems platform**
+- A **non-extractive geophysical analysis tool**
+- A **risk and anomaly interpretation system**
+
+## What This Vertical Is Not
+
+- Not a drilling controller
+- Not an extraction planner
+- Not a predictive oracle
+
+## Registries & Lenses
+
+- Geological layer registries
+- Material property libraries
+- Seismic profile presets
+- Environmental coupling models
 
 ## Governance
-Governed by CORE platform law.
-Interpretation must remain non-destructive and non-extractive.
+
+All outputs are interpretive.
+No extraction or exploitation authority exists here.
